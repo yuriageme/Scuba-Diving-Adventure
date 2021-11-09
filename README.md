@@ -5,6 +5,3 @@ Its like the olds game rock bluster but instead of space happens in ocean and th
 É como o velho jogo de rock bluster, mas em vez do espaço acontece no oceano e o personagem principal é um mergulhador e ele deve destruir o lixo que polui nossos mares. mover com setas para cima e para baixo e atirar com espaço.
 
 Link: https://scratch.mit.edu/projects/597495410
-
-
-<iframe src="https://scratch.mit.edu/projects/597495410/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
